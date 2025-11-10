@@ -37,7 +37,7 @@ O sistema implementa o algoritmo Bully para eleição de coordenador, garantindo
 - Processo de eleição baseado em IDs
 - Reorganização automática da rede após falhas
 
-### 2. Sincronização de Relógios (Berkeley)
+### 2. Sincronização de Relógios (Berkeley) x AINDA NÃO FUNCIONA
 Implementação do algoritmo de Berkeley para sincronização temporal:
 - Coordenador coleta tempos locais periodicamente
 - Cálculo de média dos tempos recebidos
